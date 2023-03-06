@@ -1,0 +1,64 @@
+{
+    "scoreList": [
+        {
+            "scoreId":1,
+            "countryId":1,
+            "scoreName": "Davis Curtis",
+            "scorePoints": 2569
+        },
+        {
+            "scoreId":2,
+            "countryId":2,
+            "scoreName": "Alena Donin",
+            "scorePoints": 1469
+        },
+        {
+            "scoreId":3,
+            "countryId":3,
+            "scoreName": "Craig Gouse",
+            "scorePoints": 1053
+        },
+        {
+            "scoreId":4,
+            "countryId":54,
+            "scoreName": "Madelyn Dias",
+            "scorePoints": 590
+        },
+        {
+            "scoreId":5,
+            "countryId":5,
+            "scoreName": "Zain Vaccaro",
+            "scorePoints": 448
+        },
+        {
+            "scoreId":6,
+            "countryId":6,
+            "scoreName": "Skylar Geidt",
+            "scorePoints": 448
+        },
+        {
+            "scoreId":7,
+            "countryId":7,
+            "scoreName": "Justin Bator",
+            "scorePoints": 448
+        },
+        {
+            "scoreId":8,
+            "countryId":8,
+            "scoreName": "Cooper Lipshutz",
+            "scorePoints": 448
+        },
+        {
+            "scoreId":9,
+            "countryId":9,
+            "scoreName": "Alfredo Septimus",
+            "scorePoints": 448
+        },
+        {
+            "scoreId":10,
+            "countryId":10,
+            "scoreName": "Paityn Aminoff",
+            "scorePoints": 448
+        }
+    ]
+}
